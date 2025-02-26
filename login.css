@@ -1,0 +1,38 @@
+.masthead {
+    background-image: url("/img/bg-putih.png");
+    background-position: center;
+    background-size: cover;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+    overflow: hidden;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+            }
+
+.tema {
+    font-family: 'Times New Roman', Times, serif;
+    color: #000000;
+    font-weight: 800;
+        }
+.tema2 {
+    font-family: 'Times New Roman', Times, Georgia;
+    color: #000000;
+    font-weight: normal;
+    font-size: medium;
+        }
+.tema3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #000000;
+    font-weight: bolder;
+    margin-bottom: 7px;
+        }
+.fill{
+    height: 40px;
+    width: 40px;
+}
+
+.butt {
+    color: #ffdd00;
+    background-color: rgb(217, 250, 0);
+    border-color: #000000
+}
